@@ -29,9 +29,34 @@ thead{
    
 }
 td{
-    width: 500px;
+    width: 465px;
 }
 thead {
     text-align: left;
 }
     
+span{
+    background-color: yellow;
+}
+h4{
+    color: gray;
+    
+}
+#potrebbero-interessarti-1{
+    color: white;
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 200px;
+    font-size: larger;
+    padding-top: 2%;
+}
+#potrebbero-interessarti-2{
+    color: white;
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 200px;
+    font-size: larger;
+    padding-top: 2%;
+}
